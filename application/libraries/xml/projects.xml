@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<session>
+	<encrypted></encrypted>
+	<session_id/>
+	<ip_address/>
+	<user_agent/>
+	<last_activity/>
+	<user_type/>
+</session>
+<projects indexCounter="2">
+	<elance>
+		<client name="Client_56179539">
+			<offer num="1" id="offer1" dateOfOffer="11MAY2014" title="search geolocation" fee="100" status="pending" clientExpiry="08MAY2014" estCompletionDate="13MAY2014" deleted="0">
+				<milestones total="2" current="2" complete="0">
+					<notes milestone="1" goal="Make New Listing View" estCompletionDate="08MAY2014">
+						<note num="1" date="07MAY2014">Listing view has been tested and found free of bugs.</note>
+						<note num="2" date="08MAY2014">Client approved the listing view.</note>
+						<note num="3" date="08MAY2014">Client paid fee for milestone 1 approval.</note>
+					</notes>
+					<notes milestone="2" goal="Create Model for DataStore" estCompletionDate="10MAY2014">
+						<note num="1" date="08MAY2014">DataStore model has been tested and found free of bugs.</note>
+						<note num="2" date="09MAY2014">Client approved the DataStore model.</note>
+						<note num="3" date="10MAY2014">Client paid fee for milestone 2 approval.</note>
+					</notes>
+				</milestones>
+			</offer>
+		</client>
+		<client name="Client_56380994">
+			<offer num="1" id="offer2" dateOfOffer="13MAY2014" title="Avatar Online Application" fee="3250 to $4500" status="pending" clientExpiry="16MAY2014" estCompletionDate="4 to 6 weeks" deleted="0">
+			</offer>
+		</client>
+		<client name="Client_56392666">
+			<offer num="1" id="offer2" dateOfOffer="13MAY2014" title="Avatar Online Application" fee="3250 to $4500" status="pending" clientExpiry="16MAY2014" estCompletionDate="4 to 6 weeks" deleted="0">
+			</offer>
+		</client>
+	</elance>
+	<odesk>
+	</odesk>
+	<direct>
+	</direct>
+</projects>
+</root>
